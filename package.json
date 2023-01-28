@@ -1,0 +1,26 @@
+{
+  "name": "gui-components",
+  "version": "1.0.0",
+  "description": "a list of gui-components coded by vaibhav sompura, originally from adam argyle.",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build --base=./",
+    "serve": "vite preview",
+    "deploy": "npm run build && gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vsompura3/gui-components.git"
+  },
+  "author": "Vaibhav Sompura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vsompura3/gui-components/issues"
+  },
+  "homepage": "https://github.com/vsompura3/gui-components#readme",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
