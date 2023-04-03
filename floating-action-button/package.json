@@ -19,6 +19,7 @@
   "devDependencies": {
     "eslint": "^8.17.0",
     "gh-pages": "^4.0.0",
+    "open-props": "^1.5.7",
     "postcss-preset-env": "^7.7.1",
     "vite": "^2.9.10 || >2.0.0-alpha"
   }
